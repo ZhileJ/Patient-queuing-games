@@ -1,4 +1,5 @@
 ## README
+The project implements the algorithm computing the utility for each queue in patient queueing games given by Jason Gaitonde Éva Tardos in [The Price of Anarchy of Strategic Queuing Systems](https://dl.acm.org/doi/10.1145/3587250).
 
 ### Dependence
 
